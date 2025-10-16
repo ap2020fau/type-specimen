@@ -9,7 +9,6 @@ html {
 body, html, .v, .ALL-CONTENT, .MENU-BAR, .frame, .div-wrapper, .div, .BODY-TEXT, .ABOUT-SECTION, .VEND, .TESTSANS, .built-around-the, .ABOUT-SCROLL, .REGULAR-SECTION, .p, .aa-bb-cc-dd-ee-ff-gg, .span, .text-wrapper, .div, .BODY-TEXT, .ITALIC-SECTION, .NUMBER-SECTION, .GLYPH-SECTION, .BODY-TEXT-SECTION, .CREDITS, .DOWNLOAD, .element-VEND, .BLOOM-TYPE-FOUNDRY, .BLOOM-TYPE-FOUNDRY-2 {
   font-family: 'Vend Sans', Helvetica, Arial, sans-serif;
 }
-}
 
 .v .text-wrapper:hover{
   color: red;
