@@ -1,0 +1,1146 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  font-family: 'Vend Sans', Helvetica, Arial, sans-serif;
+}
+
+body, html, .v, .ALL-CONTENT, .MENU-BAR, .frame, .div-wrapper, .div, .BODY-TEXT, .ABOUT-SECTION, .VEND, .TESTSANS, .built-around-the, .ABOUT-SCROLL, .REGULAR-SECTION, .p, .aa-bb-cc-dd-ee-ff-gg, .span, .text-wrapper, .div, .BODY-TEXT, .ITALIC-SECTION, .NUMBER-SECTION, .GLYPH-SECTION, .BODY-TEXT-SECTION, .CREDITS, .DOWNLOAD, .element-VEND, .BLOOM-TYPE-FOUNDRY, .BLOOM-TYPE-FOUNDRY-2 {
+  font-family: 'Vend Sans', Helvetica, Arial, sans-serif;
+}
+}
+
+.v .text-wrapper:hover{
+  color: red;
+}
+
+.v .text-wrapper-61:hover{
+  color: red;
+}
+
+.v .text-wrapper-62:hover{
+  color: red;
+}
+
+.v .text-wrapper-63:hover{
+  color: red;
+}
+
+.v .element-VEND-2:hover{
+  color: red;
+}
+
+.v {
+  background-color: #000000;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 6000px;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 20px;
+
+}
+
+.v .ALL-CONTENT {
+  grid-column: span 12;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.v .MENU-BAR {
+  grid-column: span 12;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-items: center;
+  gap: 20px;
+  background-color: #000000;
+  box-shadow: 0px 20px 25px #000000, 0px 25px 20px #000000;
+}
+
+.v .frame {
+  display: inline-flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.v .div-wrapper {
+  width: 223px;
+  position: relative;
+  height: 75px;
+  background-color: #000000;
+  box-shadow: 0px 25px 20px #000000;
+}
+
+.v .text-wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 2.50px;
+  line-height: 32.5px;
+}
+
+.v .div {
+  width: 224px;
+  position: relative;
+  height: 75px;
+  background-color: #000000;
+  box-shadow: 0px 25px 20px #000000;
+}
+
+.v .BODY-TEXT {
+  position: relative;
+  width: 223px;
+  height: 75px;
+}
+
+.v .ABOUT-SECTION {
+  margin-left: 52px;
+  width: 1266px;
+  height: 757px;
+  position: relative;
+  margin-top: 313px;
+}
+
+.v .VEND {
+  position: absolute;
+  top: 0;
+  left: 123px;
+  width: 1126px;
+  height: 423px;
+}
+
+.v .text-wrapper-2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 14.14%;
+  left: 0;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 373px;
+  text-align: center;
+  letter-spacing: -22.38px;
+  line-height: 406.6px;
+  white-space: nowrap;
+}
+
+.v .TESTSANS {
+  position: absolute;
+  top: 379px;
+  left: 105px;
+  width: 1126px;
+  height: 378px;
+  display: flex;
+}
+
+.v .TESTSANS-2 {
+  flex: 1;
+  width: 1126px;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 373px;
+  text-align: center;
+  letter-spacing: -22.38px;
+  line-height: 406.6px;
+  white-space: nowrap;
+}
+
+.v .built-around-the {
+  position: absolute;
+  top: 374px;
+  left: 70px;
+  width: 1196px;
+  height: 130px;
+}
+
+.v .ABOUT-SCROLL {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 58px;
+  height: 53px;
+  background-color: #000000;
+  border-radius: 29px / 26.5px;
+}
+
+.v .REGULAR-SECTION {
+  margin-left: 52px;
+  width: 1468px;
+  height: 644px;
+  position: relative;
+  margin-top: 152px;
+}
+
+.v .p {
+  position: absolute;
+  top: 402px;
+  left: 149px;
+  width: 1157px;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 2.52px;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg {
+  top: 460px;
+  left: 149px;
+  width: 1297px;
+  font-family: "Vend Sans-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 29px;
+  line-height: 36.2px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .span {
+  letter-spacing: 0.50px;
+}
+
+.v .text-wrapper-3 {
+  letter-spacing: 0.67px;
+}
+
+.v .text-wrapper-4 {
+  letter-spacing: 0.76px;
+}
+
+.v .text-wrapper-5 {
+  letter-spacing: 0.84px;
+}
+
+.v .text-wrapper-6 {
+  letter-spacing: 0.93px;
+}
+
+.v .text-wrapper-7 {
+  letter-spacing: 1.01px;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg-2 {
+  top: 526px;
+  left: 149px;
+  width: 1297px;
+  font-family: "Vend Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 36.2px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-8 {
+  letter-spacing: 0.59px;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg-3 {
+  top: 587px;
+  left: 149px;
+  width: 1297px;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 36.2px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-9 {
+  letter-spacing: 0.42px;
+}
+
+.v .text-wrapper-10 {
+  position: absolute;
+  top: 597px;
+  left: 50px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-11 {
+  position: absolute;
+  top: 536px;
+  left: 50px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-12 {
+  position: absolute;
+  top: 470px;
+  left: 50px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-13 {
+  position: absolute;
+  top: 412px;
+  left: 49px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-14 {
+  position: absolute;
+  top: 352px;
+  left: 50px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg-4 {
+  top: 342px;
+  left: 149px;
+  width: 1252px;
+  font-family: "Vend Sans-Light", Helvetica;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 35px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-15 {
+  letter-spacing: 0.71px;
+}
+
+.v .text-wrapper-16 {
+  letter-spacing: 0.86px;
+}
+
+.v .text-wrapper-17 {
+  letter-spacing: 0.94px;
+}
+
+.v .text-wrapper-18 {
+  letter-spacing: 0.78px;
+}
+
+.v .text-wrapper-19 {
+  position: absolute;
+  top: 219px;
+  left: 45px;
+  width: 272px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 16.00px;
+  line-height: 41.6px;
+}
+
+.v .line {
+  top: 333px;
+  left: 122px;
+  width: 1px;
+  height: 311px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.v .div-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 58px;
+  height: 53px;
+  background-color: #000000;
+  border-radius: 29px / 26.5px;
+}
+
+.v .ITALIC-SECTION {
+  margin-left: 49px;
+  width: 1420px;
+  height: 644px;
+  position: relative;
+  margin-top: 133px;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg-5 {
+  top: 403px;
+  left: 152px;
+  width: 1246px;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 35px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-20 {
+  font-family: "Vend Sans-Italic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.71px;
+}
+
+.v .text-wrapper-21 {
+  font-family: "Vend Sans-Italic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.55px;
+}
+
+.v .text-wrapper-22 {
+  font-family: "Vend Sans-Italic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.47px;
+}
+
+.v .text-wrapper-23 {
+  font-family: "Vend Sans-Italic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.86px;
+}
+
+.v .text-wrapper-24 {
+  font-family: "Vend Sans-Italic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.94px;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg-6 {
+  top: 461px;
+  left: 152px;
+  width: 1246px;
+  font-family: "Vend Sans-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 29px;
+  line-height: 36.2px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-25 {
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.50px;
+}
+
+.v .text-wrapper-26 {
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.67px;
+}
+
+.v .text-wrapper-27 {
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.76px;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg-7 {
+  top: 527px;
+  left: 152px;
+  width: 1246px;
+  font-family: "Vend Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 36.2px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-28 {
+  font-family: "Vend Sans-SemiBoldItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.50px;
+}
+
+.v .text-wrapper-29 {
+  font-family: "Vend Sans-SemiBoldItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.67px;
+}
+
+.v .text-wrapper-30 {
+  font-family: "Vend Sans-SemiBoldItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.76px;
+}
+
+.v .text-wrapper-31 {
+  font-family: "Vend Sans-SemiBoldItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.84px;
+}
+
+.v .text-wrapper-32 {
+  font-family: "Vend Sans-SemiBoldItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.59px;
+}
+
+.v .text-wrapper-33 {
+  position: absolute;
+  top: 597px;
+  left: 53px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-34 {
+  position: absolute;
+  top: 536px;
+  left: 53px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-35 {
+  position: absolute;
+  top: 470px;
+  left: 53px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-36 {
+  position: absolute;
+  top: 412px;
+  left: 52px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-37 {
+  position: absolute;
+  top: 352px;
+  left: 53px;
+  width: 67px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-38 {
+  top: 588px;
+  left: 152px;
+  width: 1246px;
+  font-family: "Vend Sans-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 29px;
+  letter-spacing: 1.74px;
+  line-height: 36.2px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .aa-bb-cc-dd-ee-ff-gg-8 {
+  top: 343px;
+  left: 152px;
+  width: 1246px;
+  font-family: "Vend Sans-Light", Helvetica;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 35px;
+  position: absolute;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-39 {
+  font-family: "Vend Sans-LightItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.71px;
+}
+
+.v .text-wrapper-40 {
+  font-family: "Vend Sans-LightItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.47px;
+}
+
+.v .text-wrapper-41 {
+  font-family: "Vend Sans-LightItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.86px;
+}
+
+.v .text-wrapper-42 {
+  font-family: "Vend Sans-LightItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 1.18px;
+}
+
+.v .text-wrapper-43 {
+  font-family: "Vend Sans-LightItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 0.78px;
+}
+
+.v .text-wrapper-44 {
+  font-family: "Vend Sans-LightItalic", Helvetica;
+  font-style: italic;
+  letter-spacing: 1.10px;
+}
+
+.v .text-wrapper-45 {
+  position: absolute;
+  top: 218px;
+  left: 48px;
+  width: 272px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 16.00px;
+  line-height: 41.6px;
+}
+
+.v .img {
+  top: 333px;
+  left: 125px;
+  width: 1px;
+  height: 311px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.v .div-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48px;
+  height: 42px;
+  background-color: #000000;
+  border-radius: 24px / 21px;
+}
+
+.v .NUMBER-SECTION {
+  margin-left: 62px;
+  width: 1286px;
+  height: 517px;
+  margin-top: 120px;
+  display: flex;
+  flex-direction: column;
+}
+
+.v .NUMBER-SCROLL {
+  width: 48px;
+  height: 42px;
+  background-color: #000000;
+  border-radius: 24px / 21px;
+}
+
+.v .text-wrapper-46 {
+  margin-left: 35px;
+  width: 272px;
+  height: 100px;
+  margin-top: 189px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 32px;
+  letter-spacing: 16.00px;
+  line-height: 41.6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.v .text-wrapper-47 {
+  margin-left: 36px;
+  width: 1246px;
+  height: 153px;
+  margin-top: 33px;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 57.60px;
+  line-height: 124.8px;
+}
+
+.v .GLYPH-SECTION {
+  margin-left: 62px;
+  width: 1214px;
+  height: 847px;
+  position: relative;
+  margin-top: 252px;
+}
+
+.v .text-wrapper-48 {
+  top: 121px;
+  left: 116px;
+  font-size: 220px;
+  letter-spacing: 132.00px;
+  line-height: 286.0px;
+  position: absolute;
+  width: 309px;
+  height: 328px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-49 {
+  top: 519px;
+  left: 116px;
+  font-size: 250px;
+  letter-spacing: 150.00px;
+  line-height: 325.0px;
+  position: absolute;
+  width: 309px;
+  height: 328px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-50 {
+  top: 170px;
+  left: 504px;
+  font-size: 250px;
+  letter-spacing: 150.00px;
+  line-height: 325.0px;
+  position: absolute;
+  width: 309px;
+  height: 328px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-51 {
+  top: 519px;
+  left: 504px;
+  font-size: 250px;
+  letter-spacing: 150.00px;
+  line-height: 325.0px;
+  position: absolute;
+  width: 309px;
+  height: 328px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-52 {
+  top: 170px;
+  left: 891px;
+  font-size: 250px;
+  letter-spacing: 150.00px;
+  line-height: 325.0px;
+  position: absolute;
+  width: 309px;
+  height: 328px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-53 {
+  position: absolute;
+  top: 519px;
+  left: 891px;
+  width: 309px;
+  height: 328px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 250px;
+  text-align: center;
+  letter-spacing: 150.00px;
+  line-height: 325.0px;
+  white-space: nowrap;
+}
+
+.v .text-wrapper-54 {
+  top: 46px;
+  left: 35px;
+  width: 272px;
+  height: 100px;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 32px;
+  letter-spacing: 16.00px;
+  line-height: 41.6px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.v .BODY-TEXT-SECTION {
+  margin-left: 52px;
+  width: 1301px;
+  height: 886px;
+  position: relative;
+  margin-top: 154px;
+}
+
+.v .lorem-ipsum-dolor {
+  position: absolute;
+  top: 544px;
+  left: 707px;
+  width: 584px;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 49.2px;
+}
+
+.v .text-wrapper-55 {
+  top: 545px;
+  left: 45px;
+  font-size: 32px;
+  line-height: 41.6px;
+  position: absolute;
+  width: 584px;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: justify;
+  letter-spacing: 0;
+}
+
+.v .text-wrapper-56 {
+  top: 156px;
+  left: 707px;
+  font-size: 28px;
+  line-height: 36.4px;
+  position: absolute;
+  width: 584px;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: justify;
+  letter-spacing: 0;
+}
+
+.v .text-wrapper-57 {
+  top: 157px;
+  left: 45px;
+  font-size: 24px;
+  line-height: 31.2px;
+  position: absolute;
+  width: 584px;
+  font-family: "Vend Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: justify;
+  letter-spacing: 0;
+}
+
+.v .group {
+  top: 459px;
+  left: 45px;
+  position: absolute;
+  width: 586px;
+  height: 35px;
+}
+
+.v .REGULAR {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 584px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Vend Sans-Medium", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.90px;
+  line-height: 22.5px;
+}
+
+.v .text-wrapper-58 {
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  letter-spacing: 0.16px;
+}
+
+.v .text-wrapper-59 {
+  font-family: "Vend Sans-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: 0.16px;
+}
+
+.v .line-2 {
+  top: 4px;
+  left: 188px;
+  width: 212px;
+  height: 1px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.v .group-2 {
+  top: 851px;
+  left: 45px;
+  position: absolute;
+  width: 586px;
+  height: 35px;
+}
+
+.v .group-3 {
+  top: 459px;
+  left: 707px;
+  position: absolute;
+  width: 586px;
+  height: 35px;
+}
+
+.v .group-4 {
+  top: 851px;
+  left: 707px;
+  position: absolute;
+  width: 586px;
+  height: 35px;
+}
+
+.v .text-wrapper-60 {
+  position: absolute;
+  top: 19px;
+  left: 45px;
+  width: 328px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Vend Sans-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 16.00px;
+  line-height: 41.6px;
+}
+
+.v .CREDITS {
+  margin-left: 102px;
+  width: 1237px;
+  height: 144px;
+  position: relative;
+  margin-top: 340px;
+}
+
+.v .DOWNLOAD {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 195px;
+  height: 104px;
+  display: flex;
+  opacity: 0.5;
+}
+
+.v .text-wrapper-61 {
+  flex: 1;
+  width: 195px;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 36.4px;
+}
+
+.v .element-VEND {
+  position: absolute;
+  top: 40px;
+  left: 1057px;
+  width: 180px;
+  height: 104px;
+  display: flex;
+  opacity: 0.5;
+}
+
+.v .element-VEND-2 {
+  flex: 1;
+  width: 180px;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 36.4px;
+}
+
+.v .BLOOM-TYPE-FOUNDRY {
+  position: absolute;
+  top: 0;
+  left: calc(50.00% - 234px);
+  width: 466px;
+  height: 87px;
+  display: flex;
+}
+
+.v .BLOOM-TYPE-FOUNDRY-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 466px;
+  font-family: "Vend Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: 5.10px;
+  line-height: 22.1px;
+}
+
+.v .text-wrapper-62 {
+  letter-spacing: 0.87px;
+}
+
+.v .text-wrapper-63 {
+  font-size: 28px;
+  letter-spacing: 2.35px;
+  line-height: 36.4px;
+}
